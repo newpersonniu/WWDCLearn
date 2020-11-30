@@ -4,11 +4,12 @@
 ### 说明
 主要讲解了mac通用架构的构建及其处理方式
 单元测试 measure使用
+demo找寻（包含内存、cpu使用）
 
 ### 相关
 - 线程清理
 - crash
-- 音频
+- 音频 meet audio workgroups
 
 ## [iPad and iPhone apps on Apple silicon Macs](https://developer.apple.com/videos/play/wwdc2020/10114)
 ### 说明
